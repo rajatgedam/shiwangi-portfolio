@@ -1,0 +1,122 @@
+{
+    "basics": {
+        "name": "Shiwangi Ukey",
+        "label": "Business Analyst",
+        "email": "rukey9823@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Business",
+        "job2": "Research",
+        "description": "Hello! I'm Shiwangi, a passionate market research enthusiast driven by curiosity and innovation. I thrive on tackling new challenges and uncovering key insights that drive strategic decisions. Just like magic, I turn data into actionable intelligence—helping you navigate the market with confidence!",
+        "summary": "based in Pune, MH.",
+        "keywords": "personal,website,portfolio,template,kit,shiwangi,ukey,business,analst,market,research,pune,maharashtra,bloomberg,zoominfo,crunchbase,googleanalytics,aitools,telegram,material,design,ui,webapp,markdown",
+        "url": "https://taniyow.vercel.app/",
+        "location": {
+            "address": "ZZ",
+            "postalCode": "ZZ",
+            "city": "Pune",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "Maharashtra"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "rukey9823@gmail.com",
+                "url": "mailto:rukey9823@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "mcmtan",
+                "url": "https://www.linkedin.com/in/shiwangiukey/",
+                "x_icon": "fab fa-linkedin-in"
+            }
+            
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Business Administration",
+            "studyType": "Master",
+            "startDate": "2019-07-07",
+            "endDate": "2021-08-08",
+            "gpa": "3.8",
+            "courses": ["MBA"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Market Research",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "Marathi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Fluent speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Tigers", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
