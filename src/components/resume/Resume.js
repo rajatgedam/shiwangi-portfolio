@@ -42,3 +42,4 @@ export const Resume = () => {
     </Link>
   );
 };
+/* //"https://taniyow.vercel.app/",*/
