@@ -8,9 +8,11 @@ import { TextDecrypt } from "../content/TextDecrypt";
 import './Works.css';
 
 // Import ../../assets/recentprojects/
-import Portfolio from '../../assets/recentprojects/react-portfolio.png';
-import Veritru from '../../assets/recentprojects/veritru.png';
-import Lofo from '../../assets/recentprojects/lofo.png';
+import Portfolio from '../../assets/recentprojects/AuditServices.png';
+import Veritru from '../../assets/recentprojects/IsostaticGraphite.png';
+import Lofo from '../../assets/recentprojects/ProjectControlProcess.png';
+import test from '../../assets/recentprojects/veritru.png';
+
 import Startup from '../../assets/recentprojects/startup.png';
 import Lacalle from '../../assets/recentprojects/lacalle.png';
 
@@ -27,47 +29,44 @@ export const Works = () => {
   const [projects, setProjects] = useState([
     { 
       id: 1,
-      title: 'React Portfolio', 
-      description: `Designed and developed a ReactJS portfolio 
-      with fancy 3D animations using Three.js for 
-      the background element.`,
-      alter: 'React Portfolio',
+      title: 'Audit Services', 
+      description: `Identify factors influencing the decision for 
+      global companies to engage with auditors and provide recommendations.`,
+      alter: 'Audit Services',
       image: `${Portfolio}`,
     },
     { 
       id: 2,
-      title: 'VeriTru Project', 
-      description: `An advocacy project website built using
-      MEAN stack with fact-checking tool to promote actions against
-      fake news.`,
-      alter: 'VeriTru Project',
+      title: 'Isostatic Graphite', 
+      description: `An analysis of Isostatic Graphite supply chain.`,
+      alter: 'Isostatic Graphite',
       image: `${Veritru}`,
     },
     { 
       id: 3,
-      title: 'LoFo Project', 
-      description: `Logistics and Forwarding website built using
-      ReactJS to design and develop its front-end.`,
-      alter: 'LoFo Project',
+      title: 'Project Control Process', 
+      description: `This project explores and benchmarks project control practices, tools, frameworks, 
+      and compliance standards in the UK and Ireland to provide insights into effective project management..`,
+      alter: 'Project Control Process',
       image: `${Lofo}`,
     },
-    { 
-      id: 4,
-      title: 'Startup Project', 
-      description: `A website portfolio project for the Startup Dev Team
-      built using MEVN stack to demonstrate the CRUD capabilities of the tech stack.`,
-      alter: 'Startup Project',
-      image: `${Startup}`,
-    },
-    { 
-      id: 5,
-      title: 'LaCalle Cafe', 
-      description: `A website project for the La Calle Cafe business
-      built using Wordpress and PHP with integrated SEO tools to help
-      the business ramp up its prospects and lead generation.`,
-      alter: 'Startup Project',
-      image: `${Lacalle}`,
-    },
+    // { 
+    //   id: 4,
+    //   title: 'Startup Project', 
+    //   description: `A website portfolio project for the Startup Dev Team
+    //   built using MEVN stack to demonstrate the CRUD capabilities of the tech stack.`,
+    //   alter: 'Startup Project',
+    //   image: `${Startup}`,
+    // },
+    // { 
+    //   id: 5,
+    //   title: 'LaCalle Cafe', 
+    //   description: `A website project for the La Calle Cafe business
+    //   built using Wordpress and PHP with integrated SEO tools to help
+    //   the business ramp up its prospects and lead generation.`,
+    //   alter: 'Startup Project',
+    //   image: `${Lacalle}`,
+    // },
   ]);
 
   return (
