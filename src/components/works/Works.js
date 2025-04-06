@@ -30,23 +30,27 @@ export const Works = () => {
     { 
       id: 1,
       title: 'Audit Services', 
-      description: `Identify factors influencing the decision for 
-      global companies to engage with auditors and provide recommendations.`,
+      description: `This project explores how organizations select audit services amid evolving regulations. 
+      It examines the tender process, key decision factors (expertise, compliance, cost), and compares competitive bidding with direct selection. 
+      Additionally, it highlights how local firms leverage global networks to compete. The research maps the dynamics shaping audit engagements today.`,
       alter: 'Audit Services',
       image: `${Portfolio}`,
     },
     { 
       id: 2,
       title: 'Isostatic Graphite', 
-      description: `An analysis of Isostatic Graphite supply chain.`,
+      description: `This project analyzes the global isostatic graphite market, projected to grow at a 7.28% CAGR (2021–2026), highlighting demand-supply gaps and major production hubs.
+      It assesses pricing trends influenced by China’s export restrictions and the rise of silicon-carbon composites.
+      A supplier benchmarking and cost driver analysis offers strategic insights for stakeholders navigating material shifts and sourcing challenges.`,
       alter: 'Isostatic Graphite',
       image: `${Veritru}`,
     },
     { 
       id: 3,
       title: 'Project Control Process', 
-      description: `This project explores and benchmarks project control practices, tools, frameworks, 
-      and compliance standards in the UK and Ireland to provide insights into effective project management..`,
+      description: `This project analyzes the Project Control Process with a focus on cost and schedule tracking to maintain alignment with baselines.
+      It benchmarks UK/Ireland industry practices, comparing frameworks like Scrum and Waterfall and tools such as AI analytics and Gantt charts.
+      Case studies from the water industry highlight evolving best practices, regulatory standards, and innovations in risk mitigation and efficiency.`,
       alter: 'Project Control Process',
       image: `${Lofo}`,
     },
