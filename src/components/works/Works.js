@@ -38,7 +38,7 @@ export const Works = () => {
     },
     { 
       id: 2,
-      title: 'Isostatic Graphite', 
+      title: 'Iso-Graphite', 
       description: `This project analyzes the global isostatic graphite market, projected to grow at a 7.28% CAGR (2021–2026), highlighting demand-supply gaps and major production hubs.
       It assesses pricing trends influenced by China’s export restrictions and the rise of silicon-carbon composites.
       A supplier benchmarking and cost driver analysis offers strategic insights for stakeholders navigating material shifts and sourcing challenges.`,
